@@ -6,4 +6,6 @@ apple | fruit | yes | 3.00
 banana | fruit | yes | 1.50
 cherry | fruit | no | 8.00
 durian | fruit | yes | 15.00
-elderberry | fruit | no | 12.00
+elderberry | fruit | yes | 12.00
+
+
